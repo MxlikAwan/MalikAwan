@@ -2,12 +2,8 @@
 <html>
 <head>
 <title>TimeLine</title>
-<link rel="stylesheet" type="text/css" href="" />
+<link rel="stylesheet" type="text/css" href="#TimeLine" />
 <meta charset="UTF-8">
-<meta name="description" content="final project">
-<meta name="keywords" content="Home, Services, design, and Looks">
-<meta name="author" content="awanS23@gfsd.org">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
 <!--container div starts -->
@@ -16,7 +12,7 @@
 <!--header div starts -->
 <div id="header">
 <i class="fa-solid fa-leaf"></i>
-  <h1>Flower Power</h1>
+  <h1>TimeLine</h1>
 </a>
 <!--header div ends -->
 </div>
@@ -27,8 +23,6 @@
 <li><a href="Index.html">Home</a></li>
 <li><a href="AboutUs.html">About Us</a></li>
 <li><a href="Services.html">Services</a></li>
-<li><a href="Pictures.html"> <i class="fa-solid fa-camera"></i>
-  <strong>Pictures</strong></a></li>
 </ul>
 <!--sitemenu ends below -->
 </div>
@@ -68,7 +62,7 @@
 <a href="Index.html">Home</a> //
 <a href="AboutUs.html">About Us</a> //
 <a href="Services.html">Services</a> //
-<a href="Pictures.html"><strong>Pictures</strong></a>
+
 
 
 <br>
